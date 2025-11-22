@@ -1,6 +1,6 @@
 name: Frontend Build & Deploy
 
-on:
+on: 
   push:
     branches: [ "main" ]
 
